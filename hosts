@@ -1,0 +1,35 @@
+# Possible Adobe activation servers
+0.0.0.0 acroipm2.adobe.com
+0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 auth.services.adobe.com
+0.0.0.0 butler.adobe.com
+0.0.0.0 c00.adobe.com
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 crs.cr.adobe.com
+0.0.0.0 geo.adobe.com
+0.0.0.0 geo2.adobe.com
+0.0.0.0 ic.adobe.io
+0.0.0.0 ims-na1.adobelogin.com
+0.0.0.0 lcs-cops.adobe.io
+0.0.0.0 p13n-mr.adobe.io
+0.0.0.0 p13n.adobe.io
+0.0.0.0 resources.licenses.adobe.com
+
+0.0.0.0 adobe.tt.omtrdc.net
+0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 auth.services.adobe.com
+0.0.0.0 genuine.adobe.com
+0.0.0.0 geo2.adobe.com
+0.0.0.0 ic.adobe.io
+0.0.0.0 lcs-cops.adobe.io
+0.0.0.0 lcs-robs.adobe.io
+0.0.0.0 pgc.adobe.io
+
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 ic.adobe.io
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 activate.adobe.com
