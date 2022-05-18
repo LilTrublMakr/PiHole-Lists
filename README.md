@@ -1,2 +1,4 @@
 # Adobe-Blocklist
-Blocklist for possible adobe activation servers
+My blocklists.
+
+Adobe: Blocks possible Adobe servers.
