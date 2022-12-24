@@ -1,0 +1,5 @@
+# Attempt to block ads in Plex
+0.0.0.0 vid-io-cle.springserve.com
+0.0.0.0 admedia.publica-ctv.com
+0.0.0.0 cdn2.videobyte.com
+0.0.0.0 cds.b5g9b8e4.hwcdn.net
