@@ -13,6 +13,7 @@ gstaticadssl.l.google.com
 googleapis.l.google.com
 dl.google.com
 redirector.gvt1.com
+mtalk.google.com
 www.msftncsi.com
 www.msftconnecttest.com
 outlook.office365.com
@@ -21,10 +22,6 @@ c.s-microsoft.com
 i.s-microsoft.com
 login.live.com
 login.microsoftonline.com
-g.live.com
-dl.delivery.mp.microsoft.com
-geo-prod.do.dsp.mp.microsoft.com
-displaycatalog.mp.microsoft.com
 sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
@@ -37,7 +34,6 @@ arc.msn.com
 activity.windows.com
 xbox.ipv6.microsoft.com
 device.auth.xboxlive.com
-www.msftncsi.com
 title.mgt.xboxlive.com
 xsts.auth.xboxlive.com
 title.auth.xboxlive.com
@@ -55,18 +51,6 @@ eds.xboxlive.com
 www.xboxlive.com
 v10.vortex-win.data.microsoft.com
 settings-win.data.microsoft.com
-s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com
-ui.skype.com
-pricelist.skype.com
-apps.skype.com
-m.hotmail.com
-sa.symcb.com
-s1.symcb.com
-s2.symcb.com
-s3.symcb.com
-s4.symcb.com
-s5.symcb.com
 officeclient.microsoft.com
 dev.virtualearth.net
 ecn.dev.virtualearth.net
@@ -78,11 +62,9 @@ appleid.apple.com
 gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 connectivitycheck.android.com
-android.clients.google.com
 clients3.google.com
 connectivitycheck.gstatic.com
 msftncsi.com
-www.msftncsi.com
 ipv6.msftncsi.com
 captive.apple.com
 gsp1.apple.com
@@ -202,6 +184,7 @@ img.vidible.tv
 videos.vidible.tv
 edge.api.brightcove.com
 cdn.vidible.tv
+live-manifests-aka.warnermediacdn.com
 v.w-x.co
 appspot-preview.l.google.com
 prod.telemetry.ros.rockstargames.com
@@ -249,6 +232,7 @@ logs.juspay.in
 appboy-images.com
 rest.iad-03.braze.com
 mobileandroidapi.punchh.com
-rmbl.ws
 cds.s5x3j6q5.hwcdn.net
 analytics.svt.se
+ads-a-darwin.hulustream.com
+ads-fa-darwin.hulustream.com
